@@ -1,4 +1,4 @@
-#ChatGPT's master file for running the ETL pipeline.
+#Master script for making the ETL pipeline run.
 
 import subprocess
 
